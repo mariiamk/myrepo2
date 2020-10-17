@@ -11,6 +11,7 @@ namespace Task06
             EmptyClass.m();
             Console.WriteLine("*****");
             Console.WriteLine("*****");
+            Console.WriteLine("*****");
         }
     }
 }
