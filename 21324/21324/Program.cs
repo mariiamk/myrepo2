@@ -1,12 +1,13 @@
 ﻿using System;
+using System.IO;
 
-namespace Application
+namespace a
 {
-    class MainClass
+    class p
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
